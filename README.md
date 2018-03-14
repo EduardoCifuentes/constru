@@ -1,0 +1,2 @@
+# constru
+modelo base constructora
